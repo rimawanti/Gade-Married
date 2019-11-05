@@ -9,6 +9,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 	//this is version 1..
+	System.out.println("THIS IS VERSION 2");
 		awal();
 		tambahKaryawan();
 		tambahJadwal();
