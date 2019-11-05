@@ -8,7 +8,7 @@ public class Main {
 	static ArrayList <Nilai> nil = new ArrayList();
 	
 	public static void main(String[] args) {
-	//this is version 1
+	//this is version 1..
 		awal();
 		tambahKaryawan();
 		tambahJadwal();
