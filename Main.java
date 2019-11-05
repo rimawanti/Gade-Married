@@ -8,8 +8,8 @@ public class Main {
 	static ArrayList <Nilai> nil = new ArrayList();
 	
 	public static void main(String[] args) {
-	//this is version 1..
-	System.out.println("THIS IS VERSION 2");
+	//this is version of master branch..
+	System.out.println("THIS IS VERSION 3");
 		awal();
 		tambahKaryawan();
 		tambahJadwal();
